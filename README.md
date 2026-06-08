@@ -1,6 +1,6 @@
 # Script `carburanti.py`
 
-Trova i distributori di carburante più vicini e i prezzi migliori nella tua zona, utilizzando i dati ufficiali del MIMIT.
+Trova i distributori di carburante più vicini e i prezzi migliori in zona, utilizzando i dati ufficiali del MIMIT.
 
 ## Utilizzo
 
