@@ -30,6 +30,12 @@ CAP_RIFERIMENTO=00100 NOME_LOCALITA=Roma RAGGIO_KM=5 python3 carburanti.py
 * Python 3.6 o superiore
 * Connessione Internet
 
+## Limitazioni
+
+* I prezzi sono aggiornati alle 8:00 - non riflettono cambiamenti intra-giornalieri
+* La geocodifica tramite Zippopotam.us copre solo i CAP italiani
+* Il file di output viene salvato su ~/Desktop , su sistemi senza Desktop, modificare get_output_path()
+
 ## Fonti dati
 
 * Anagrafica e prezzi carburanti: dati open data del MIMIT (rilevazione alle 08:00)
